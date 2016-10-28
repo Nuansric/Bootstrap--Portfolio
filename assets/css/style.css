@@ -1,0 +1,52 @@
+
+/*Clear MArgin of navbar*/
+.navbar{
+	margin: 0;
+	padding: 50px 100px 0 100px;
+
+}
+
+/*Give box to teal header*/
+.navbar-header{
+	height: 100%;
+	max-width: 220px;
+	padding: 10px 20px 10px 20px;
+	background-color: #4aaaa5;
+
+}
+/*Give margin space to picture*/
+
+#my-pic{
+	float: left;
+	margin-right: 10px;
+}
+
+/*clear the position of class jumbotron*/
+.jumbotron{
+	margin: 0
+	padding: 0;
+	background-color: #ffffff;
+}
+
+/*clear the position of class container*/
+.container{
+	padding: 0;
+	margin: 0;
+	width: 100%;
+
+}
+/*Control the min size of image*/
+img{
+	min-height: 30px;
+	min-width: 30px;
+}
+
+/*Clear the position of class row*/
+.row{
+	margin: 0;
+	padding: 0;
+
+}
+
+
+
